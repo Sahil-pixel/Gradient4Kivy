@@ -254,7 +254,7 @@ if __name__ == '__main__':
 
 Here's what the app looks like:
 <p align="center">
-  <img src="s0.jpg" width="200" style="display:inline-block; margin-right:10px;"> 
+  <img src="s0.png" width="200" style="display:inline-block; margin-right:10px;"> 
 </p>
 
 ---
